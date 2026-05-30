@@ -1,9 +1,6 @@
 # 📊 Financial Researcher Crew
 
 🚀 Company research used to take days. Not anymore. This multi-agent CrewAI system unleashes a team of AI agents that investigate, analyze, and report on any company — financials, market trends, risks, opportunities, and news — all collaborating autonomously to deliver a professional research report faster than your morning coffee brews. ☕
-
-The crew combines specialized AI agents that collaborate to investigate a company's current financial position, historical performance, market opportunities, business challenges, recent news, and future outlook. The final output is a structured, executive-style report designed for analysts, investors, researchers, and business professionals who need rapid company insights.
-
 ---
 
 ## 🚀 Features
